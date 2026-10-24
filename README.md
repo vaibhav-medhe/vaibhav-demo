@@ -2,4 +2,4 @@
 this is my first git repository5
 <br>
 
-author - vaibhav
+author - vaibhav medhe (jaihind college)
